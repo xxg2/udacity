@@ -1,0 +1,75 @@
+1
+00:00:00,310 --> 00:00:03,480
+Eu diria que todas essas são preocupações que você deve ter ao
+
+2
+00:00:03,480 --> 00:00:05,510
+pensar sobre a métrica a ser escolhida.
+
+3
+00:00:05,510 --> 00:00:08,800
+E todas elas podem ser problemas de precisão no
+
+4
+00:00:08,800 --> 00:00:11,340
+caso de identificação de pessoas de interesse.
+
+5
+00:00:11,340 --> 00:00:14,380
+A precisão pode ser um problema quando existem
+
+6
+00:00:14,380 --> 00:00:18,750
+classes inclinadas, pois o denominador dessa fórmula, todos os itens nessa classe,
+
+7
+00:00:18,750 --> 00:00:22,560
+acabam sendo um número muito pequeno, o que significa que a precisão que você computa como
+
+8
+00:00:22,560 --> 00:00:27,330
+resultado é algo que talvez não seja tão confiável quanto se
+
+9
+00:00:27,330 --> 00:00:31,050
+houvesse uma grande quantidade de exemplos de instâncias dessa classe.
+
+10
+00:00:31,050 --> 00:00:34,180
+Além disso, as outras duas opções são pontos que você irá querer considerar,
+
+11
+00:00:34,180 --> 00:00:37,260
+querer escolher, uma métrica realmente adaptada às operações
+
+12
+00:00:37,260 --> 00:00:40,540
+que você está tentando fazer; como resultado, você talvez queira maximizar
+
+13
+00:00:40,540 --> 00:00:45,170
+a chance de errar em vez de adivinhar se alguém é inocente.
+
+14
+00:00:45,170 --> 00:00:46,860
+Ou, de modo oposto,
+
+15
+00:00:46,860 --> 00:00:50,860
+você se engana ao indicá-las como pessoas de interesse, mesmo se isso
+
+16
+00:00:50,860 --> 00:00:54,570
+significar que você identificará mais pessoas inocentes em sua rede como resultado.
+
+17
+00:00:55,700 --> 00:01:00,480
+A precisão não está muito bem adaptada a nenhum desses resultados, mas
+
+18
+00:01:00,480 --> 00:01:02,820
+existem algumas métricas de avaliação que estão, e
+
+19
+00:01:02,820 --> 00:01:04,830
+falaremos sobre isso nesta lição.

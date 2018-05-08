@@ -1,0 +1,19 @@
+1
+00:00:00,130 --> 00:00:03,650
+E finalmente, é oito novamente, portanto, esse não era o melhor exemplo para testar você.
+
+2
+00:00:03,650 --> 00:00:06,584
+Por causa do número de casos onde eu digo negativo em meu
+
+3
+00:00:06,584 --> 00:00:10,400
+algoritmo de aprendizado de máquina, mas, no entanto, o resultado foi Tony Blair.
+
+4
+00:00:10,400 --> 00:00:11,752
+Portanto, esta é uma classificação falsa,
+
+5
+00:00:11,752 --> 00:00:15,014
+todas as que estão nesta linha horizontal até 26.

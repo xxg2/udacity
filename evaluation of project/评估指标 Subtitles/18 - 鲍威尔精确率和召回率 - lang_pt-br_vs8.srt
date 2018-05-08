@@ -1,0 +1,15 @@
+1
+00:00:00,090 --> 00:00:03,860
+Vamos aplicar os conceitos de abrangência e precisão a um nome diferente.
+
+2
+00:00:03,860 --> 00:00:05,430
+Vamos usar Colin Powell.
+
+3
+00:00:05,430 --> 00:00:09,100
+Você consegue, a partir desta matriz, calcular a taxa de abrangência e
+
+4
+00:00:09,100 --> 00:00:11,170
+a taxa de precisão para Colin Powell?

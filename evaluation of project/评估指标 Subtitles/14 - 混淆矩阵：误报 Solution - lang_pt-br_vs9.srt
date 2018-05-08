@@ -1,0 +1,47 @@
+1
+00:00:00,220 --> 00:00:03,310
+Eu digo que um alarme falso é quando seu alarme dispara, portanto, positivo
+
+2
+00:00:03,310 --> 00:00:04,939
+para arrombamento, mas não há um arrombamento.
+
+3
+00:00:04,939 --> 00:00:11,090
+Portanto, no mundo real o evento é negativo, mas seu sistema diz positivo.
+
+4
+00:00:11,090 --> 00:00:14,490
+Portanto, aqui é onde a marca de verificação deve ir. E você pode ver um pouco de assimetria.
+
+5
+00:00:14,490 --> 00:00:18,230
+Você pode ver que você pode se importar com eventos negativos que dão a você
+
+6
+00:00:18,230 --> 00:00:22,000
+um alarme positivo diferentemente de eventos positivos que estão sendo perdidos.
+
+7
+00:00:22,000 --> 00:00:23,900
+E só para dar a você um pouco de uma antecipação,
+
+8
+00:00:23,900 --> 00:00:28,250
+normalmente, alterando parâmetros você pode mover esta curva em qualquer direção.
+
+9
+00:00:28,250 --> 00:00:32,320
+E se você acreditar que um alarme falso, que é... a polícia vir até
+
+10
+00:00:32,320 --> 00:00:38,090
+sua casa para verificar um arrombamento, tem um ponto de preço diferente de um evento perdido,
+
+11
+00:00:38,090 --> 00:00:41,800
+como alguém roubando todos os seus pertences sem a polícia nem notar,
+
+12
+00:00:41,800 --> 00:00:44,800
+então você pode mover novamente esta linha para cima e para baixo.

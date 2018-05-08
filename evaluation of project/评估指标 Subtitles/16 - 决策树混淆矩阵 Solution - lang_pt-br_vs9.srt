@@ -1,0 +1,55 @@
+1
+00:00:00,390 --> 00:00:02,700
+A diagonal principal foi fácil.
+
+2
+00:00:02,700 --> 00:00:04,070
+Está contada em verde corretamente:
+
+3
+00:00:04,070 --> 00:00:08,260
+1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+4
+00:00:08,260 --> 00:00:11,510
+Para os brancos, tenho um total de 8, e os
+
+5
+00:00:11,510 --> 00:00:16,420
+classificados erroneamente são estes três pontos de dados
+
+6
+00:00:16,420 --> 00:00:18,980
+aqui que circulei de azul.
+
+7
+00:00:18,980 --> 00:00:24,090
+Este é um negativo verdadeiro classificado como positivo, e vai para cá.
+
+8
+00:00:24,090 --> 00:00:25,330
+Ele é, na verdade, negativo mas
+
+9
+00:00:25,330 --> 00:00:29,400
+é previsto como positivo. Já estes aqui são o contrário.
+
+10
+00:00:29,400 --> 00:00:30,000
+Eles vão para lá. Então,
+
+11
+00:00:30,000 --> 00:00:34,001
+em seguida, você fará uma matriz de confusão 7 por 7 de quê?
+
+12
+00:00:34,001 --> 00:00:35,260
+&gt;&gt; Da lição de PCA.
+
+13
+00:00:35,260 --> 00:00:36,434
+As faces dos itens.
+
+14
+00:00:36,434 --> 00:00:37,820
+&gt;&gt; Ok, vou passar para a Katie.

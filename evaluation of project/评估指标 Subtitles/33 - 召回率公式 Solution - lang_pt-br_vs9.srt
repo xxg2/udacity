@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:03,660
+E a resposta é que os positivos verdadeiros agrupam falso-negativos.
+
+2
+00:00:03,660 --> 00:00:05,760
+Vamos considerar Hugo Chavez, outra vez.
+
+3
+00:00:05,760 --> 00:00:09,190
+Dissemos que a abrangência foi 10 dividido por 16,
+
+4
+00:00:09,190 --> 00:00:12,930
+porque há 6 falso-negativos à esquerda.
+
+5
+00:00:12,930 --> 00:00:14,930
+É o número de positivos verdadeiros
+
+6
+00:00:14,930 --> 00:00:18,190
+mais os falso-negativos que define a abrangência.
+
+7
+00:00:18,190 --> 00:00:19,590
+Tente memorizar estas fórmulas.
+
+8
+00:00:19,590 --> 00:00:22,090
+Elas são muito úteis quando o assunto é algoritmo de aprendizagem de máquina.

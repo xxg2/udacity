@@ -1,0 +1,23 @@
+1
+00:00:00,148 --> 00:00:05,240
+Minhas respostas seriam 2, 4, 6, 8, 9 positivos.
+
+2
+00:00:05,240 --> 00:00:06,800
+Oito aqui.
+
+3
+00:00:06,800 --> 00:00:11,710
+O número de positivos, de positivos reais, que eu classifiquei incorretamente como negativos são 3; portanto,
+
+4
+00:00:11,710 --> 00:00:12,760
+estes aqui.
+
+5
+00:00:12,760 --> 00:00:16,340
+E apenas um negativo verdadeiro está classificado incorretamente como positivo.
+
+6
+00:00:16,340 --> 00:00:17,860
+Então, esta é a matriz de confusão.

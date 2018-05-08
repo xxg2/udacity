@@ -1,0 +1,51 @@
+1
+00:00:00,200 --> 00:00:03,410
+Eu vou falar para você sobre dois termos técnicos.
+
+2
+00:00:03,410 --> 00:00:05,740
+Um chamado abrangência e o outro chamado precisão.
+
+3
+00:00:05,740 --> 00:00:08,560
+Esses são os termos para o que você acabou de computar.
+
+4
+00:00:08,560 --> 00:00:14,530
+Por exemplo, a taxa de abrangência de Hugo Chavez é a divisão de quanto
+
+5
+00:00:14,530 --> 00:00:18,830
+é a probabilidade do nosso algoritmo de identificar corretamente Hugo Chavez,
+
+6
+00:00:18,830 --> 00:00:21,860
+contanto que a pessoa seja mesmo Hugo Chavez.
+
+7
+00:00:21,860 --> 00:00:24,740
+O que, no nosso caso, era 10 sobre 16.
+
+8
+00:00:24,740 --> 00:00:28,170
+A precisão do mesmo conceito seria a taxa que teríamos
+
+9
+00:00:28,170 --> 00:00:31,870
+se nosso algoritmo previsto fosse a segunda taxa que estudamos,
+
+10
+00:00:31,870 --> 00:00:33,200
+que passou a ser um.
+
+11
+00:00:33,200 --> 00:00:36,999
+Isso é a divisão de... suponhamos que nosso algoritmo observe que há Hugo Chavez,
+
+12
+00:00:36,999 --> 00:00:39,459
+quais são as chances de que seja mesmo Hugo Chavez e
+
+13
+00:00:39,459 --> 00:00:40,974
+de que isso seja 10 sobre 10?

@@ -1,0 +1,15 @@
+1
+00:00:00,220 --> 00:00:01,550
+Esta é a resposta certa.
+
+2
+00:00:01,550 --> 00:00:04,850
+Obviamente, o número de positivos verdadeiros é 25.
+
+3
+00:00:04,850 --> 00:00:07,650
+Há apenas dois falso-positivos.
+
+4
+00:00:07,650 --> 00:00:11,070
+Mas há um total de 11 falso-negativos para Donald Rumsfeld.

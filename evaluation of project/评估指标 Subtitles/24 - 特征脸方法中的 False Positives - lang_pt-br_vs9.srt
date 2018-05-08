@@ -1,0 +1,7 @@
+1
+00:00:00,190 --> 00:00:02,660
+Vamos fazer o mesmo com os falso-positivos agora.
+
+2
+00:00:02,660 --> 00:00:03,330
+Qual é esse número?

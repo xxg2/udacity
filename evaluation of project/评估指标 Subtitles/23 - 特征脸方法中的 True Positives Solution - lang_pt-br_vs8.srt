@@ -1,0 +1,11 @@
+1
+00:00:00,340 --> 00:00:01,770
+Eu diria que o valor é 26.
+
+2
+00:00:01,770 --> 00:00:07,080
+Esse é o número de vezes em que Tony Blair foi identificado positivamente e
+
+3
+00:00:07,080 --> 00:00:08,450
+foi realmente Tony Blair.

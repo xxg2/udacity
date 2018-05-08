@@ -1,0 +1,39 @@
+1
+00:00:00,134 --> 00:00:02,916
+Para complicar um pouco mais a vida,
+
+2
+00:00:02,916 --> 00:00:06,683
+vamos lembrar que falamos sobre positivos verdadeiros.
+
+3
+00:00:06,683 --> 00:00:09,955
+Falso-positivos e falso-negativos.
+
+4
+00:00:09,955 --> 00:00:12,925
+Deixei de fora os verdadeiros negativos porque Kate e
+
+5
+00:00:12,925 --> 00:00:16,225
+eu não conseguimos concordar o que isso significaria neste exemplo.
+
+6
+00:00:16,225 --> 00:00:19,744
+Mas posso generalizar que essas 3 palavras, essas 3 expressões para
+
+7
+00:00:19,744 --> 00:00:22,805
+uma matriz de confusão com mais de dois conceitos positivos e negativos,
+
+8
+00:00:22,805 --> 00:00:26,769
+temos 7 conceitos diferentes, como neste exemplo.
+
+9
+00:00:26,769 --> 00:00:29,400
+Para o conceito Tony Blair,
+
+10
+00:00:29,400 --> 00:00:33,040
+qual seria o número de positivos verdadeiros?

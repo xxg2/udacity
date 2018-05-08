@@ -1,0 +1,75 @@
+1
+00:00:00,490 --> 00:00:02,410
+Agora que você recapitulou o que é precisão,
+
+2
+00:00:02,410 --> 00:00:05,689
+tema com o qual você já se familiarizou nas sessões anteriores desta aula,
+
+3
+00:00:05,689 --> 00:00:08,500
+vamos falar sobre outras métricas de avaliação que podem ser um pouco
+
+4
+00:00:08,500 --> 00:00:11,380
+mais específicas, dependendo do que você quer fazer com seu algoritmo de
+
+5
+00:00:11,380 --> 00:00:12,800
+aprendizado de máquina.
+
+6
+00:00:12,800 --> 00:00:16,820
+&gt;&gt; Em muitos casos, na vida real, você se importa mais com determinados resultados do que com outros.
+
+7
+00:00:16,820 --> 00:00:17,770
+Temos uma assimetria.
+
+8
+00:00:17,770 --> 00:00:21,070
+Por exemplo, se você redigir um exame de detecção de câncer,
+
+9
+00:00:21,070 --> 00:00:25,000
+eu argumentaria que você se preocuparia mais com a detecção do câncer.
+
+10
+00:00:25,000 --> 00:00:26,350
+Mesmo que você tolere ocasionalmente
+
+11
+00:00:26,350 --> 00:00:30,390
+uma detecção falsa, negligenciar o câncer seria desastroso para você.
+
+12
+00:00:30,390 --> 00:00:33,760
+Esse é o caso quando sua métrica de desempenho favorece um tipo
+
+13
+00:00:33,760 --> 00:00:35,880
+de erro de maneira diferente de outro tipo de erro.
+
+14
+00:00:35,880 --> 00:00:38,800
+&gt;&gt; Portanto, dependendo da métrica utilizada, ela pode ajudar você a se concentrar
+
+15
+00:00:38,800 --> 00:00:40,900
+nos tipos de erros que você pode estar cometendo.
+
+16
+00:00:40,900 --> 00:00:42,550
+E você pode ajustar seu algoritmo
+
+17
+00:00:42,550 --> 00:00:44,270
+exatamente para aquilo que deve ser otimizado.
+
+18
+00:00:44,270 --> 00:00:46,130
+&gt;&gt; É realmente importante que você saiba e aplique
+
+19
+00:00:46,130 --> 00:00:48,520
+isso porque, do contrário, os resultados podem não ser satisfatórios.

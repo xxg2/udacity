@@ -1,0 +1,71 @@
+1
+00:00:00,160 --> 00:00:02,830
+Falarei sobre matrizes de confusão.
+
+2
+00:00:02,830 --> 00:00:06,311
+Provavelmente é a primeira vez que você ouve essa expressão, mas ela é útil se
+
+3
+00:00:06,311 --> 00:00:09,160
+tem interesse em aprendizado de máquina e quer falar com alguém sobre isso.
+
+4
+00:00:09,160 --> 00:00:12,120
+Imagine que tenhamos um classificador acima
+
+5
+00:00:12,120 --> 00:00:16,680
+desta linha, as tabelas de classe são Xs vermelhos e na linha abaixo temos círculos verdes.
+
+6
+00:00:16,680 --> 00:00:19,393
+Como antes, o X vermelho é um exemplo positivo e
+
+7
+00:00:19,393 --> 00:00:21,250
+o círculo verde é negativo.
+
+8
+00:00:21,250 --> 00:00:24,030
+A matriz de confusão é de dois por dois.
+
+9
+00:00:24,030 --> 00:00:27,918
+Ela compara a classe real, que pode ser positiva ou negativa.
+
+10
+00:00:27,918 --> 00:00:30,540
+Com ela, chamamos uma classe prevista.
+
+11
+00:00:30,540 --> 00:00:34,520
+Nosso resultado também pode ser positivo ou negativo.
+
+12
+00:00:34,520 --> 00:00:38,400
+Cada um à direita incrementa a contagem à esquerda.
+
+13
+00:00:38,400 --> 00:00:39,160
+Vejamos.
+
+14
+00:00:39,160 --> 00:00:42,670
+Vamos pegar um ponto de dados aqui que seja negativo e
+
+15
+00:00:42,670 --> 00:00:47,190
+classificado para estar no lado verde do classificador.
+
+16
+00:00:47,190 --> 00:00:49,410
+Se eu quiser contar este tipo de dados,
+
+17
+00:00:49,410 --> 00:00:53,000
+em qual dos quatro recipientes à esquerda ele se encaixará?
+
+18
+00:00:53,000 --> 00:00:54,605
+Basta clicar na parte correspondente.

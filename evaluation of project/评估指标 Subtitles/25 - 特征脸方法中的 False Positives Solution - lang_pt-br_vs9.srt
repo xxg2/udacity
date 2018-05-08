@@ -1,0 +1,15 @@
+1
+00:00:00,140 --> 00:00:01,310
+Temos aqui o número 8,
+
+2
+00:00:01,310 --> 00:00:06,570
+que é a soma de todas as observações de Tony Blair que, na verdade, eram falsas.
+
+3
+00:00:06,570 --> 00:00:08,109
+Elas são chamadas de falso-positivos.
+
+4
+00:00:08,109 --> 00:00:10,130
+Pensamos que são positivas, mas não são.

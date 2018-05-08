@@ -1,0 +1,7 @@
+1
+00:00:00,050 --> 00:00:01,859
+Vamos marcar este ponto aqui e
+
+2
+00:00:01,859 --> 00:00:03,719
+clicar no bucket correspondente à esquerda.

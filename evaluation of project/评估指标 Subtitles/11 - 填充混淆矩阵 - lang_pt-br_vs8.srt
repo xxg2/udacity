@@ -1,0 +1,19 @@
+1
+00:00:00,140 --> 00:00:02,360
+Então, vamos definir agora a matriz de confusão.
+
+2
+00:00:02,360 --> 00:00:04,750
+Adicionei alguns pontos de dados aqui do lado direito.
+
+3
+00:00:04,750 --> 00:00:07,510
+Agora quero que você conte o número de pontos que entram
+
+4
+00:00:07,510 --> 00:00:10,220
+em cada um dos quatro quadrantes da matriz de confusão.
+
+5
+00:00:10,220 --> 00:00:12,390
+Conte do lado direito e coloque os números do lado esquerdo.

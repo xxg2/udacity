@@ -1,0 +1,47 @@
+1
+00:00:00,070 --> 00:00:00,660
+Esse aqui é complicado.
+
+2
+00:00:00,660 --> 00:00:02,020
+Vamos usar o Hugo Chavez de novo.
+
+3
+00:00:02,020 --> 00:00:06,310
+Sabemos que a precisão foi 10, número de positivos verdadeiros
+
+4
+00:00:06,310 --> 00:00:11,360
+dividido por todos os números desta coluna vertical, todos zero.
+
+5
+00:00:11,360 --> 00:00:12,410
+Sabemos que a precisão é um.
+
+6
+00:00:13,440 --> 00:00:17,585
+Os números da coluna vertical, exceto
+
+7
+00:00:17,585 --> 00:00:20,170
+10, revocam esses falso-positivos.
+
+8
+00:00:21,200 --> 00:00:24,320
+A resposta correta aqui é: adicionamos os positivos verdadeiros
+
+9
+00:00:24,320 --> 00:00:27,780
+aos falso-positivos, obtendo o denominador desta
+
+10
+00:00:27,780 --> 00:00:32,180
+equação aqui.
+
+11
+00:00:32,180 --> 00:00:34,850
+Ou seja, os positivos verdadeiros
+
+12
+00:00:34,850 --> 00:00:38,392
+mais os falso-positivos que se enquadram neste denominador.

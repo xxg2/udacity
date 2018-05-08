@@ -1,0 +1,11 @@
+1
+00:00:00,130 --> 00:00:02,350
+E a resposta é, cairia no recipiente bem aqui.
+
+2
+00:00:02,350 --> 00:00:05,130
+A classe real é negativa, mas
+
+3
+00:00:05,130 --> 00:00:08,760
+nosso classificador também o coloca no lado negativo para que ele esteja no recipiente bem aqui.

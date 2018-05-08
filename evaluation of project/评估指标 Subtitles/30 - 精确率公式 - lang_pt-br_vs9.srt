@@ -1,0 +1,27 @@
+1
+00:00:00,200 --> 00:00:03,010
+Aqui vai minha última pergunta, que será desafiadora.
+
+2
+00:00:03,010 --> 00:00:06,250
+Vou redefinir a precisão como um quociente onde bem aqui
+
+3
+00:00:06,250 --> 00:00:07,950
+temos o número de positivos verdadeiros.
+
+4
+00:00:07,950 --> 00:00:11,550
+E bem aqui temos a adição. Que elementos do lado
+
+5
+00:00:11,550 --> 00:00:15,220
+esquerdo irão para o denominador do lado direito?
+
+6
+00:00:15,220 --> 00:00:16,340
+Pense com cuidado, e
+
+7
+00:00:16,340 --> 00:00:19,310
+clique nos itens correspondentes no lado esquerdo que vão para a direita bem aqui

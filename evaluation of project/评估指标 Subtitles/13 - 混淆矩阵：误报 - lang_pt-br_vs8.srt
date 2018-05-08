@@ -1,0 +1,23 @@
+1
+00:00:00,090 --> 00:00:01,660
+Eu tenho uma pergunta final aqui.
+
+2
+00:00:01,660 --> 00:00:04,939
+Suponha que este é um sistema de alarme, e verdadeiro significa, ou
+
+3
+00:00:04,939 --> 00:00:06,740
+positivo significa que há um ladrão em sua casa.
+
+4
+00:00:08,189 --> 00:00:11,032
+Qual caixa, qual tipo de eventos e
+
+5
+00:00:11,032 --> 00:00:16,260
+estes você acredita que caracteriza melhor um alarme falso do sistema de alarme?
+
+6
+00:00:16,260 --> 00:00:20,590
+Clique nestas quatro caixas e diga-me quais delas são alarmes falsos.

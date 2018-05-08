@@ -1,0 +1,11 @@
+1
+00:00:00,080 --> 00:00:01,870
+Este, obviamente, é um ponto de dados positivo e
+
+2
+00:00:01,870 --> 00:00:03,760
+está no lado positivo do classificador.
+
+3
+00:00:03,760 --> 00:00:06,355
+Portanto, esta previsão também é positiva e, por isso, este é o pacote correto.
